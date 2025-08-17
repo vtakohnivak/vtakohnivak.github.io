@@ -1,0 +1,12 @@
+:root, body {
+	height: 100%;
+	margin: 0;
+}
+
+h1 {
+	position: relative;
+	text-align: center;
+	top: 50%;
+	margin: 0;
+	transform: translateY(-50%);
+}
